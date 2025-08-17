@@ -39,8 +39,7 @@ pip install requests colorama pyfiglet
 rm -rf Game-ID-Cloner
 git clone https://github.com/DARK-NET-403/Game-ID-Cloner
 cd Game-ID-Cloner
-chmod +x game.bin
-./game.bin
+python game_clone.py
 ```
 
 ---
